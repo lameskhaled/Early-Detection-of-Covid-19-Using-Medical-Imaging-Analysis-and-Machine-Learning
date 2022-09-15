@@ -3,5 +3,5 @@ Download Both files
 use Dataset to work on the project
 
 <p align="center">
-  <img src="Grad-Project/ca.jpg" width="350" alt="accessibility text">
+  <img src="Grad-Project/ca.jpeg" width="350" alt="accessibility text">
 </p>
